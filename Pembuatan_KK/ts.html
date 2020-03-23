@@ -1,0 +1,208 @@
+<html>
+<head>
+<style>
+#warp{
+width: 100%;
+height: 800px;
+background: ;
+font-family: Calibri;
+}
+h1 {
+    font-size: 400%;
+padding-top: 100px;
+z-index:2;
+	margin-left: -100px;
+}
+
+h2 {
+    font-size: 200%;
+	margin-top: -50px;
+		margin-left: -100px;
+}
+img {
+float: left;
+z-index:1;
+position: absolute;
+}
+#kiri{
+padding-left: 120px;
+float: left;
+}
+#kanan{
+float: left;
+margin-left: 700px;
+}
+th{
+ text-align: center;
+}
+#atas{
+
+}
+.datap{
+    border-collapse: collapse;
+
+width: 95%;
+border: 2px solid black;
+}
+.no{
+ text-align: center;
+ background: grey;
+}
+#ftengah{
+float: left;
+
+}
+#fkiri{
+float: left;
+padding-left: 100px;
+}
+#ftengah td{
+padding-top:22px;
+text-align: center;
+padding-left: 250px;
+}
+#fkanan td{
+padding-top:22px;
+text-align: center;
+padding-left: 150px;
+}
+</style>
+</head>
+<body>
+<div id="warp">
+
+<div id="head">
+<img src="logo.jpg" width="150px" height="150px"/>
+<center><h1>KARTU KELUARGA</h1>
+                                        <h2>No. 
+                                            <asp:Label ID="lbNoKK" runat="server"></asp:Label>
+                    </h2> 
+                                        </center>
+</div>
+<div id="detail">
+<div id="kiri">
+<table >
+<tr>
+<td>Nama Kepala Keluarga</td>
+<td>:</td>
+<td>....</td>
+</tr>
+<tr>
+<td>Alamat</td>
+<td>:</td>
+<td>....</td>
+</tr>
+<tr>
+<td>RT/RW</td>
+<td>:</td>
+<td>....</td>
+</tr>
+<tr>
+<td>Desa/Kelurahan</td>
+<td>:</td>
+<td>....</td>
+</tr>
+</table>
+</div>
+<div id="kanan">
+<table >
+<tr>
+<td>Kecamatan</td>
+<td>:</td>
+<td>.........</td>
+</tr>
+<tr>
+<td>Kabupaten/Kota</td>
+<td>:</td>
+<td>.........</td>
+</tr>
+<tr>
+<td>Kode Pos</td>
+<td>:</td>
+<td>.........</td>
+</tr>
+<tr>
+<td>Provinsi</td>
+<td>:</td>
+<td>.........</td>
+</tr>
+</table>
+</div>
+
+</div>
+<div id="isi">
+<div id="atas">
+<table align="center" class="datap" border="1">
+<tr>
+<th>No</th>
+<th>Nama Lengkap</th>
+<th>NIK</th>
+<th>Jenis Kelamin</th>
+<th>Tempat Lahir</th>
+<th>Tanggal Lahir</th>
+<th>Agama</th>
+<th>Pendidikan</th>
+<th>Jenis Pekerjaan</th>
+</tr>
+<tr>
+<td class='no'></td>
+<td class='no'>(1)</td>
+<td class='no'>(2)</td>
+<td class='no'>(3)</td>
+<td class='no'>(4)</td>
+<td class='no'>(5)</td>
+<td class='no'>(6)</td>
+<td class='no'>(7)</td>
+<td class='no'>(8)</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<div id="fkiri">
+<table>
+<tr>
+<td>Dikeluarkan Tanggal</td>
+<td>:</td>
+<td> </td>
+</tr>
+<tr >
+<td valign="top">LEMBAR</td>
+<td valign="top">:</td>
+<td valign="bottom">I. Kepala Keluarga</br>
+	II. RT</br>
+	III. Desa/Kelurahan</br>
+	IV. Kecamatan</td>
+</tr>
+</table>
+</div>
+<div id="ftengah">
+<table>
+<tr>
+<td>KEPALA KELUARGA</td>
+</tr>
+<tr style="height:50px">
+<td> </td>
+</tr>
+<tr>
+<td><u><b>nmkk</b><u></br>TandaTangan/Cap Jempol</td>
+</tr>
+</table>
+</div>
+<div id="fkanan">
+<table>
+<tr>
+<td>KEPALA DINAS KEPENDUDUKAN DAN</br>PENCATATAN SIPIL</td>
+</tr>
+<tr style="height:50px">
+<td> </td>
+</tr>
+<tr>
+<td><u><b>Ir Mohammad Fitra Ashari</b></u></br>NIP. 12412420021996</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>

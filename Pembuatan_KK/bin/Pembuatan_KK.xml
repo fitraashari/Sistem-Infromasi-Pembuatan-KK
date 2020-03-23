@@ -1,0 +1,1036 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pembuatan_KK
+</name>
+</assembly>
+<members>
+<member name="F:Pembuatan_KK.Edit_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbNoKK">
+	<summary>
+tbNoKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.ddNIK">
+	<summary>
+ddNIK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbAlamat">
+	<summary>
+tbAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbKodePos">
+	<summary>
+tbKodePos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbRT">
+	<summary>
+tbRT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbRW">
+	<summary>
+tbRW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbDesa">
+	<summary>
+tbDesa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbKecamatan">
+	<summary>
+tbKecamatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbKabupaten">
+	<summary>
+tbKabupaten control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbProvinsi">
+	<summary>
+tbProvinsi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.tbtglPemb">
+	<summary>
+tbtglPemb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_KK.btnBatal">
+	<summary>
+btnBatal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Detail_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Detail_KK.tbKK">
+	<summary>
+tbKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Detail_KK.btnCari">
+	<summary>
+btnCari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Detail_KK.lbdatakk">
+	<summary>
+lbdatakk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Detail_KK.lbdata">
+	<summary>
+lbdata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbnik">
+	<summary>
+tbnik control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbnama">
+	<summary>
+tbnama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbtemplhr">
+	<summary>
+tbtemplhr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbtgllhr">
+	<summary>
+tbtgllhr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.rbLaki">
+	<summary>
+rbLaki control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.rbPerempuan">
+	<summary>
+rbPerempuan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbAlamat">
+	<summary>
+tbAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.ddPekerjaan">
+	<summary>
+ddPekerjaan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.ddNegara">
+	<summary>
+ddNegara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.ddPendididkan">
+	<summary>
+ddPendididkan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.ddAgama">
+	<summary>
+ddAgama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.ddStatus">
+	<summary>
+ddStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbPaspor">
+	<summary>
+tbPaspor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbKitap">
+	<summary>
+tbKitap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbAyah">
+	<summary>
+tbAyah control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbIbu">
+	<summary>
+tbIbu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.tbket">
+	<summary>
+tbket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Edit_Penduduk.btnBatal">
+	<summary>
+btnBatal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Logout.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Penduduk.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Penduduk.btnYa">
+	<summary>
+btnYa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Penduduk.btnTidak">
+	<summary>
+btnTidak control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbNoKK">
+	<summary>
+tbNoKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.ddNIK">
+	<summary>
+ddNIK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbAlamat">
+	<summary>
+tbAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbKodePos">
+	<summary>
+tbKodePos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbRT">
+	<summary>
+tbRT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbRW">
+	<summary>
+tbRW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbDesa">
+	<summary>
+tbDesa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbKecamatan">
+	<summary>
+tbKecamatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbKabupaten">
+	<summary>
+tbKabupaten control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbProvinsi">
+	<summary>
+tbProvinsi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.tbtglPemb">
+	<summary>
+tbtglPemb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.KK.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Pembuatan_KK.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Pembuatan_KK.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Pembuatan_KK.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Pembuatan_KK.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Pembuatan_KK.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Pembuatan_KK.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbNoKK">
+	<summary>
+lbNoKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbNamakk">
+	<summary>
+lbNamakk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbAlamat">
+	<summary>
+lbAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbRtRw">
+	<summary>
+lbRtRw control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbDesa">
+	<summary>
+lbDesa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbKecamatan">
+	<summary>
+lbKecamatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbKabupaten">
+	<summary>
+lbKabupaten control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbKodePos">
+	<summary>
+lbKodePos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbProvinsi">
+	<summary>
+lbProvinsi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.dKepalaKK">
+	<summary>
+dKepalaKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.dPddk">
+	<summary>
+dPddk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.dHubKK">
+	<summary>
+dHubKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.dHubPd">
+	<summary>
+dHubPd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbTglPemb">
+	<summary>
+lbTglPemb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.WebForm1.lbnewKK">
+	<summary>
+lbnewKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK._Default.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Penduduk.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Penduduk.tbNik">
+	<summary>
+tbNik control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Penduduk.btnCari">
+	<summary>
+btnCari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Penduduk.btAlldata">
+	<summary>
+btAlldata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_Penduduk.lbdata">
+	<summary>
+lbdata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Login.tbUser">
+	<summary>
+tbUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Login.tbPass">
+	<summary>
+tbPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Login.btLogin">
+	<summary>
+btLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Detail_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Detail_KK.btnYa">
+	<summary>
+btnYa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_Detail_KK.btnTidak">
+	<summary>
+btnTidak control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.ddKK">
+	<summary>
+ddKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.anggotaKK">
+	<summary>
+anggotaKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.ddStatus">
+	<summary>
+ddStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.ddNik">
+	<summary>
+ddNik control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.btAdd">
+	<summary>
+btAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.tbPenduduk">
+	<summary>
+tbPenduduk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Detail_KK.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Status.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Status.tbKodest">
+	<summary>
+tbKodest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Status.tbSthb">
+	<summary>
+tbSthb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Status.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_KK.tbKK">
+	<summary>
+tbKK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_KK.btnCari">
+	<summary>
+btnCari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_KK.btAlldata">
+	<summary>
+btAlldata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.List_KK.lbdata">
+	<summary>
+lbdata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_KK.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_KK.btnYa">
+	<summary>
+btnYa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Delete_KK.btnTidak">
+	<summary>
+btnTidak control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbnik">
+	<summary>
+tbnik control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbnama">
+	<summary>
+tbnama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbtemplhr">
+	<summary>
+tbtemplhr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbtgllhr">
+	<summary>
+tbtgllhr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.rbLaki">
+	<summary>
+rbLaki control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.rbPerempuan">
+	<summary>
+rbPerempuan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbAlamat">
+	<summary>
+tbAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.ddPekerjaan">
+	<summary>
+ddPekerjaan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.ddNegara">
+	<summary>
+ddNegara control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.ddPendididkan">
+	<summary>
+ddPendididkan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.ddAgama">
+	<summary>
+ddAgama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.ddStatus">
+	<summary>
+ddStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbPaspor">
+	<summary>
+tbPaspor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbKitap">
+	<summary>
+tbKitap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbAyah">
+	<summary>
+tbAyah control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbIbu">
+	<summary>
+tbIbu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.tbket">
+	<summary>
+tbket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Pembuatan_KK.Entry_Penduduk.btnSimpan">
+	<summary>
+btnSimpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

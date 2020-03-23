@@ -1,0 +1,92 @@
+﻿        body {
+                color: #333333;
+				background: #666666;
+                font-family: 'Helvetica', arial;
+            }
+            hr {
+                clear: both;
+                margin-top: 40px;
+                margin-bottom: 40px;
+                border: 0;
+                border-top: 1px solid #aaaaaa;
+            }
+            h1 {
+                font-size: 30px;
+                margin-bottom: 40px;
+            }
+            p {
+                margin-bottom: 20px;
+            }
+            .btn {
+                background: #4CAF50;
+                border: #45a049 solid 1px;
+                border-radius: 3px;
+                color: #fff;
+                font-size: 14px;
+                padding: 8px 15px;
+                text-align: center;
+                min-width: 60px;
+                position: relative;
+            }
+            .btn:hover {
+                background: #45a049;
+            }
+            .btn.btn-big {
+                font-size: 18px;
+                padding: 15px 20px;
+                min-width: 100px;
+            }
+            
+            .modal-dialog {
+                background: #fefefe;
+                border: #4CAF50 solid 1px;
+                border-radius: 5px;
+
+margin-left: 35%;
+margin-top: 10%;              
+                z-index: 11;
+                width: 360px;
+				position: absolute;
+            }
+            .modal-body {
+                padding: 20px;
+            }
+            .modal-header,
+            .modal-footer {
+                padding: 10px 20px;
+            }
+            .modal-header {
+                border-bottom: #eeeeee solid 1px;
+            }
+            .modal-header h2 {
+                font-size: 20px;
+            }
+            .modal-footer {
+                border-top: #eeeeee solid 1px;
+                text-align: right;
+            }
+
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0 }
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom {
+  from{ bottom:-100px; opacity:0 }
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
